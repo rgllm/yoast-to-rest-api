@@ -1,6 +1,6 @@
 {
     "name": "rgllm/yoast-to-rest-api",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "WordPress plugin.",
     "type": "library",
     "homepage": "https://github.com/rgllm/yoast-to-rest-api/",
