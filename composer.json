@@ -1,0 +1,14 @@
+{
+    "name": "rgllm/yoast-to-rest-api",
+    "version": "1.4.1",
+    "description": "WordPress plugin.",
+    "type": "library",
+    "homepage": "https://github.com/rgllm/yoast-to-rest-api/",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Niels Garve",
+            "homepage": "https://github.com/niels-garve",
+        }
+    ]
+}
